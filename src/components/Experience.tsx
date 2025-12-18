@@ -5,21 +5,21 @@ import { Briefcase, Calendar } from "lucide-react";
 
 const experiences = [
   {
-    title: "Full Stack Developer Intern",
+    title: "Software Developer Intern",
   company: "Star Cement Ltd",
   location: "Meghalaya, India",
   period: "Jul 2024 – Aug 2024",
   description:
     "Contributed to the development of enterprise backend systems, focusing on API design, performance optimization, and access control.",
   achievements: [
-    "Built a Courier Management System using Node.js, Express.js, and MySQL",
+    "Built a Courier Management System using JavaScript,Tailwind,PHP and MySQL",
     "Optimized SQL queries to improve backend performance and system responsiveness",
     "Implemented role-based access control (RBAC) and RESTful APIs, improving workflow efficiency by 10%",
     "Prepared technical architecture and API documentation for internal engineering teams",
     ],
   },
   {
-    title: "Teaching Assistant",
+    title: "Technical Coding Mentor Apprentice",
   company: "Assam Down Town University",
   location: "Guwahati Assam, India",
   period: "Nov 2024 – Feb 2025",
